@@ -23,9 +23,9 @@ localhost/laravel_packts
 
 # Project Description:
 
-1 . Command line script is created to get the Products info from the API provided by PACKTS.
-2 . Run Commans to get the products into DB table (Table: product)
-3 . Create Account onto website
-4 . Login with email & password
-5 . Checkout the Products List.
+1 . Command line script is created to get the Products info from the API provided by PACKTS.<br /> 
+2 . Run Commans to get the products into DB table (Table: product).<br /> 
+3 . Create Account onto website.<br /> 
+4 . Login with email & password.<br /> 
+5 . Checkout the Products List.<br /> 
 
