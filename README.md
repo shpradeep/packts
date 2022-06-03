@@ -6,12 +6,12 @@ composer create-project laravel/laravel laravel_packts
 
 # Create database name laravel_packts and add config into .env file
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=laravel_packts
-DB_USERNAME=YOUR USERNAME
-DB_PASSWORD=YOUR PASSWORD
+DB_CONNECTION=mysql<br /> 
+DB_HOST=127.0.0.1<br /> 
+DB_PORT=3306<br /> 
+DB_DATABASE=laravel_packts<br /> 
+DB_USERNAME=YOUR USERNAME<br /> 
+DB_PASSWORD=YOUR PASSWORD<br /> 
 
 # Run Migration
 
